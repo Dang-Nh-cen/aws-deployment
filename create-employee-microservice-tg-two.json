@@ -1,6 +1,6 @@
 {
     "serviceName": "customer-employee",
-    "taskDefinition": "employee-microservice:1",
+    "taskDefinition": "employee-microservice:22",
     "cluster": "microservices-serverlesscluster",
     "loadBalancers": [
         {

@@ -1,6 +1,6 @@
 {
     "serviceName": "customer-service",
-    "taskDefinition": "customer-microservice:1",
+    "taskDefinition": "customer-microservice:30",
     "cluster": "microservices-serverlesscluster",
     "loadBalancers": [
         {
