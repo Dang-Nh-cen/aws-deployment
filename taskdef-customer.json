@@ -35,5 +35,9 @@
     "cpu": "512",
     "memory": "1024",
     "executionRoleArn": "arn:aws:iam::650555452655:role/ECR-Role",
-    "family": "customer-microservice"
+    "family": "customer-microservice",
+    "runtimePlatform": {
+    "cpuArchitecture": "ARM64",
+    "operatingSystemFamily": "LINUX"
+  }
 }
