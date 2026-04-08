@@ -6,7 +6,7 @@
             "environment": [
                 {
                     "name": "APP_DB_HOST",
-                    "value": "database.local"
+                    "value": "coffee-db.c3aeqo4k8fei.ap-southeast-2.rds.amazonaws.com"
                 }
             ],
             "essential": true,
